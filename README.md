@@ -1,1 +1,1 @@
-# Learn K8s
+# This is just my learning path for Kubernetes (K8s)
